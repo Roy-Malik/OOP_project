@@ -1,0 +1,3 @@
+name : quantity : price
+pringles 3 600$
+sting 3 300$
